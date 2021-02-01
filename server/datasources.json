@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "db1",
+    "password": "tiger",
+    "name": "db",
+    "user": "Rajat",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
